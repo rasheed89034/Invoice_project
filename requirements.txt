@@ -1,0 +1,9 @@
+streamlit
+audio-recorder-streamlit
+openai-whisper
+langchain-google-genai
+langchain-core
+python-dotenv
+jinja2
+xhtml2pdf
+pydantic
