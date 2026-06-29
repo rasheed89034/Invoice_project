@@ -67,7 +67,6 @@ def generate_invoice_pdf(invoice_data: dict, output_filename: str = "Solar_Invoi
 
             <div class="footer">
                 <p>Thank you for choosing our Solar Services!</p>
-                <p>This is an AI-generated official invoice.</p>
             </div>
         </body>
         </html>
